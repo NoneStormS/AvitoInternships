@@ -23,7 +23,3 @@ htmlcov/
 *.cover
 nosetests.xml
 coverage.xml
-
-
-
-# Кэш Jupyter Notebook
