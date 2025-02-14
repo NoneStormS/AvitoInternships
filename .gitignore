@@ -3,7 +3,7 @@ venv/
 env/
 ENV/
 
-__pycache__/
+__pycache__
 *.py[cod]
 *$py.class
 
@@ -23,3 +23,5 @@ htmlcov/
 *.cover
 nosetests.xml
 coverage.xml
+
+.DS_Store
